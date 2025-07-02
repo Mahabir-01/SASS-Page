@@ -1,0 +1,13 @@
+@use "variables" as *;
+
+
+
+button {
+  display: block;        
+  margin: 20px auto;      
+  padding: 20px;
+  font-family: $main-font;
+  color: $txt-color;
+  border: none;          
+  font-size: 20px;
+}

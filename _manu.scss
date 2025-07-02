@@ -1,0 +1,32 @@
+@use "variables" as *;
+
+ .left-sidebar{
+  
+
+
+ul {
+
+    font-size: 20px;
+    font-family: $main-font;
+    list-style: none;
+    border: 2px solid black;
+    width: 240px;
+    height: 450px;
+    background-color: $bg-color ;
+    color: $txt-color;
+    border-style: none;
+     
+     
+     
+
+
+
+    li {
+        justify-content: space-between;
+        padding: 10px;
+        background-color: $bg-color ;
+
+    }
+
+}
+}

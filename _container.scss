@@ -1,0 +1,35 @@
+  @use "variables" as *;
+
+  h1 {
+      border: 2px solid black;
+      padding: 20px;
+      background-color: cadetblue;
+      text-align: center;
+      font-family: $main-font;
+      color: $txt-color;
+      border-style: none;
+  }
+
+.manu{
+    display: flex;
+}
+
+
+  .right-sidebar {
+   
+
+
+      p {
+        
+          border: 2px solid black;
+          width: 160vh;
+          height: 450px;
+          background-color: $bg-color;
+          position: relative;
+          color: $txt-color;
+          border-style: none
+          
+      }
+  }
+
+  ;
